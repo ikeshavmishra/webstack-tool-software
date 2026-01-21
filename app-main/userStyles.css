@@ -1,0 +1,5 @@
+/* ========== Canva custom rules ========== */
+
+html[data-domain="www.canva.com"] .ebDCIw {
+  display: none !important;
+}
